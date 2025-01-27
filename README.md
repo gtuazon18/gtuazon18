@@ -10,6 +10,8 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=cyan&color=black)
+![Codeigniter](https://img.shields.io/badge/codeigniter-%2361DAFB.svg?style=for-the-badge&logo=codeigniter&logoColor=orange&color=black)
+![NextJS](https://img.shields.io/badge/nextjs-%2361DAFB.svg?style=for-the-badge&logo=nextjs&logoColor=orange&color=black)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
 </div>
 
