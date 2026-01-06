@@ -3,9 +3,10 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gtuazon18&theme=radical&show_icons=true&hide_border=true&count_private=true" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gtuazon18&theme=radical&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=gtuazon18&theme=radical&hide_border=true" />
   </div>
 </div>
+
 <div align="center">
 
 <!-- Frontend -->
